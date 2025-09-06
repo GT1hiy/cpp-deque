@@ -7,7 +7,7 @@
 #include <QFileDialog>
 #include <QTextStream>
 #include <string.h>
-//f
+
 #include <random>   // со случайными числами
 #include <QInputDialog> // Для использования QInputDialog в slots
 #include <deque>
