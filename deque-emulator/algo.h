@@ -5,7 +5,7 @@
 template<class T, class Comp>
 std::deque<T> Merge(const std::deque<T>& half1, const std::deque<T>& half2, const Comp& comparator) {
 
-
+//deq
     std::deque<T> result;
     auto firstIt = half1.begin();
     auto secondIt = half2.begin();
